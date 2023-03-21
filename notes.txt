@@ -1,0 +1,21 @@
+===Backend===
+
+- Create database-collection in MongoDB (inserted documents)
+- Created a new project in Asp.net core web api (added all dependencies and configuration settings in appsettings.json)
+- Created repository with business logic 
+- Implemented CQRS Dependency Injection with handlers and controllers
+- Ready with the endpoints
+
+===Frontend===
+-Create a new angular project (ng new project)
+-Created components,service
+-All web apis are given in service
+-Model is created with all fields (Here Employee)
+-Displaying elements through ngFor (directive)
+-Bootstrap Modal Form is triggered when you click on add button
+AND
+addEmployee() method is called in ts file
+-Bootstrap Modal Form is triggered when you click on edit button
+AND
+updateEmployee() method is called in ts file
+
